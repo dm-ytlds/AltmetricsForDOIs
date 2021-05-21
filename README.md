@@ -4,6 +4,9 @@ Altmetrics for DOIs
 
 A Python script which requests [Altmetric scores](https://api.altmetric.com) for a given list of DOIs of scientific articles and writes the scores to a csv file.
 
+## 2021.05.21
+Update get_altmetric_scores_for_dois.py, add "score" parameter.
+
 ## Background
 Altmetrics are an alternative way to measure the impact of research in the scientific community and on society. Altmetric.com gathers scores from a variety of sources, for example mentions on twitter or in mass media articles.  
 Through the systematic analysis of altmetric scores it can be measured which research gets attention by society or by the media. One can for example investigate which papers had a public impact over a certain amount of time.
